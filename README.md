@@ -1,7 +1,7 @@
-# hi, i'm robin 👋
+# hi, i'm robin !! 
 he/him, 17 C:
 
-## 🧠 interests
+## interests
 - writing
 - theater
 - music
@@ -10,11 +10,11 @@ currently love:
 - ride the cyclone
 - musicals
 
-## 💬 before you interact
+## before you interact
 - i block freely.
 - i LOVE to interact with people so dont be afraid to talk to me!
 
-## 🚫 boundaries
+## boundaries
 - basic dni (proshippers, darkshippers, etc)
 - no hate speech.
 - no trauma dumping me being aware that you will at first
