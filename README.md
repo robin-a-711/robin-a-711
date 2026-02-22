@@ -1,5 +1,5 @@
 # hi, i'm robin !! 
-he/him, 17 C:
+he/him C:
 
 ## interests
 - writing
