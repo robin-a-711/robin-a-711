@@ -11,14 +11,12 @@ currently love:
 - musicals
 
 ## before you interact
-- i block freely.
+- respect my friends' pronouns
 - i LOVE to interact with people so dont be afraid to talk to me!
 
 ## boundaries
 - basic dni (proshippers, darkshippers, etc)
-- no hate speech.
 - no trauma dumping me being aware that you will at first
-- respect my friends' pronouns
 
 
   
