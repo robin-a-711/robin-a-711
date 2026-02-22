@@ -1,4 +1,3 @@
-# robin-a-711
 # hi, i'm robin 👋
 he/him, 17 C:
 
