@@ -1,5 +1,5 @@
-# hi, i'm robin !! 
-he/him C:
+# hi, i'm robin !! •°.*࿐
+  he/him C:
 
 ## interests
 - writing
