@@ -1,10 +1,10 @@
 # 🧠 interests
 
 ## creative
-- [ ] writing
-- [ ] theater
-- [ ] music
-- [ ] photography
+- writing
+- theater
+- music
+- photography
 
 ## general
 - favorite language(s): ________
