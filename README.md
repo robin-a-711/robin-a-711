@@ -1,8 +1,8 @@
 # robin-a-711
-## Navigation
+## navigation
 
-- [Interests](./INTERESTS.md)
-- [Before You Interact](./BEFOREYOUINTERACT.md)
+- [interests](./INTERESTS.md)
+- [before you interact](./BEFOREYOUINTERACT.md)
 - [DNI'S](./BOUNDARIES(DNI).md)
 - [MY SOCIALS](./SOCIALS.md)
 
