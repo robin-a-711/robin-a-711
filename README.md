@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="teehee_nischa.png" width="400">
-<br>
 <p align="center">
   me n who gang
 </p>
