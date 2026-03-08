@@ -1,23 +1,15 @@
-# hi, i'm robin !! •°.*࿐
-  he/him C:
+<p align="center">
+  <a href="https://atabook.org">atabook</a> //
+  <a href="(https://dealwithdecay.straw.page/)">strawpage</a> //
+  <a href="(https://pronouns.cc/@robinthat711)">pronouns.cc</a>
+</p>
 
-## interests
-- writing
-- theater
-- music
-- photography
-  
-currently love:
-- ride the cyclone
-- musicals
+<br>
 
-## before you interact
-- respect my friends' pronouns
-- i LOVE to interact with people so dont be afraid to talk to me!
+<p align="center">
+  <img src="teehee_nischa.png" width="120">
+</p>
 
-## boundaries
-- basic dni (proshippers, darkshippers, etc)
-- no trauma dumping me being aware that you will at first
-
+<br>
 
   
