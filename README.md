@@ -28,4 +28,5 @@
   </p>
 <p align="center">
   ➽────────────────────────────❥
-</p>
+<p align="center">
+  <img src="tiny_nischa.png" width="200">
