@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/.°˖✧-3008-lightgrey">
+</p>
+
+<p align="center">
   <a href="https://dealwithdecay.straw.page/">strawpage</a> //
   <a href="https://pronouns.cc/@robinthat711">pronouns.cc</a> //
   <a href="https://guns.lol/robinafterhours">guns.lol</a>
@@ -24,7 +28,4 @@
   </p>
 <p align="center">
   ➽────────────────────────────❥
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/.°˖✧-3008-lightgrey">
 </p>
