@@ -1,116 +1,35 @@
-<div align="center">
-
-<div style="width:700px; text-align:left;">
-
-<img src="nischa_bannerheh.png" width="1010">
-<br><br>
 <p align="center">
-   <img src="https://img.shields.io/badge/.°˖✧-3008-red"> <img src="https://img.shields.io/badge/nischalings-753-red">
+  <img src="https://img.shields.io/badge/.°˖✧-3008-red"> <img src="https://img.shields.io/badge/nischalings-753-red">
 </p>
-
-<img src="ew blow him up.png" width="400" align="left">
-
-<!-- LINKS BOX -->
-
-<table width="520" border="1" cellpadding="10" cellspacing="0" align="right">
-<tr>
-<td>
 
 <p align="center">
   <a href="https://dealwithdecay.straw.page/">strawpage</a> //
   <a href="https://pronouns.cc/@robinthat711">pronouns.cc</a> //
-  <a href="https://guns.lol/robinafterhours">guns.lol</a>
+  <a href="https://guns.lol/robinafterhours">guns.lol</a> //
+ <a href="https://robinsturr.atabook.org/">atabook</a>
 </p>
 <p align="center">
-   atabook wip! 
-
-
-</p>
-
-<p align="center">
-Yo, yo yo! It's robin !<br>
-HE / HIM • EIGHTEEN <br>
-march 12 ... 
-i love mischa bachinski he is so me
-</p>
-
-</td>
-</tr>
-</table>
 
 <br>
 
-<!-- BEFORE YOU INTERACT -->
-
-<table width="520" border="1" cellpadding="10" cellspacing="0" align="right">
-<tr>
-
-<td width="20">
-
-<div style="background:#e76f51;width:8px;height:40px;"></div>
-<div style="background:#f4a261;width:8px;height:40px;"></div>
-<div style="background:#e9c46a;width:8px;height:40px;"></div>
-<div style="background:#2a9d8f;width:8px;height:40px;"></div>
-
-</td>
-
-<td>
-
-<h3>BEFORE YOU INTERACT</h3>
-
-<ul>
-<li>often if not always afk D:</li>
-<li>if I'm not actively talking I'm probably busy</li>
-<li>feel free to interact and c+h whenever ^^</li>
-<li>ride the Cyclone fans PLEASE interact with me </li>
-<li>send me gimmicks PLEASE PLEASE PLEASE</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- DO NOT INTERACT -->
-
-<table width="520" border="1" cellpadding="10" cellspacing="0" align="right">
-<tr>
-
-<td width="20">
-
-<div style="background:#2a9d8f;width:8px;height:40px;"></div>
-<div style="background:#e9c46a;width:8px;height:40px;"></div>
-<div style="background:#f4a261;width:8px;height:40px;"></div>
-
-</td>
-
-<td>
-
-<h3>DO NOT INTERACT</h3>
-
-<ul>
-<li>basic DNI criteria</li>
-<li>people who ignore boundaries</li>
-<li>people who hang out at the PROTREE in the safe server</li>
-<li>people who are just generally a bunch of creeps</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<!-- MOVE IMAGE HERE: RIGHT ALIGNED, BELOW DNI -->
-<p align="right" style="margin-top:10px;">
-  <img src="image-Photoroom.png" width="400">
-  <br>
+<p align="center">
+  You've dialed Robin! he/him, 17, March 12!
+</p>
+<p align="center">
+  i love mischa bachinski he is so me
+<p align="center">
+  ➽────────────────────────────❥
 </p>
 
-<br clear="all">
-
-<!-- SPECIAL INTERESTS COLLAPSIBLE IN A BOX -->
+<p align="center">
+  <img src="image-Photoroom.png" width="370">
+<br>
+  me n who gang 
+  </p>
+<p align="center">
+  ➽────────────────────────────❥
+<p align="center">
+  <img src="tiny_nischa.png" width="200">
 
 <table width="520" border="1" cellpadding="10" cellspacing="0" align="center">
 <tr>
