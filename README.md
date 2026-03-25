@@ -50,7 +50,7 @@
 
 <p><b>TV SHOWS:</b> Community, HOUSE MD, Supernatural, The Boys</p>
 
-<p><b>MUSICALS:</b> Ride the Cyclone, Heathers, Cabaret, Dear Evan Hansen, Hamilton, 21 Chump Street, Sound of Music, Beetle Juice, Les Miserables, In the Heights </p>
+<p><b>MUSICALS:</b> Ride the Cyclone, Heathers, Cabaret, Dear Evan Hansen, Hamilton, 21 Chump Street, Sound of Music, Beetle Juice, Les Miserables, In the Heights, Hadestown, Newsies, NPMD </p>
 
 </div>
 </details>
