@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://dealwithdecay.straw.page/">strawpage</a> //
-  <a href="https://pronouns.cc/@robinthat711">pronouns.cc</a> //
-  <a href="https://guns.lol/robinafterhours">guns.lol</a> //
+  <a href="https://dealwithdecay.straw.page/">strawpage</a> ⸝⸝
+  <a href="https://pronouns.cc/@robinthat711">pronouns.cc</a> ⸝⸝
+  <a href="https://guns.lol/robinafterhours">guns.lol</a> ⸝⸝
  <a href="https://robinsturr.atabook.org/">atabook</a>
 </p>
 <p align="center">
