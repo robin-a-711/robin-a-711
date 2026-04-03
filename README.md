@@ -7,7 +7,7 @@
   </a>
 </p>
 ‎
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=><img src="https://i.pinimg.com/originals/45/55/5c/45555cd3fd1c232d03c032725688bc4a.gif" style="max-width: 100%;"></a> <br/>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=><img src="https://i.pinimg.com/originals/11/ba/c3/11bac321510a3f09950c5aeb7dbbd367.gif" style="max-width: 100%;"></a> <br/>
 
 
 </p>
@@ -37,7 +37,7 @@
 
 <p><b>TV SHOWS:</b> Community, HOUSE MD, Supernatural, The Boys</p>
 
-<p><b>MUSICALS:</b> Ride the Cyclone, Heathers, Cabaret, Dear Evan Hansen, Hamilton, 21 Chump Street, Sound of Music, Beetle Juice, Les Miserables, In the Heights </p>
+<p><b>MUSICALS:</b> Ride the Cyclone, The Great Gatsby, Heathers, Cabaret, Dear Evan Hansen, Hamilton, 21 Chump Street, Sound of Music, Beetle Juice, Les Miserables, In the Heights </p>
 
 </div>
 </details>
