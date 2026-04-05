@@ -6,6 +6,10 @@
     />
   </a>
 </p>
+
+<p align="center">
+  "𝘚𝘰 𝘸𝘦 𝘣𝘦𝘢𝘵 𝘰𝘯, 𝘣𝘰𝘢𝘵𝘴 𝘢𝘨𝘢𝘪𝘯𝘴𝘵 𝘵𝘩𝘦 𝘤𝘶𝘳𝘳𝘦𝘯𝘵, 𝘣𝘰𝘳𝘯𝘦 𝘣𝘢𝘤𝘬 𝘤𝘦𝘢𝘴𝘦𝘭𝘦𝘴𝘴𝘭𝘺 𝘪𝘯𝘵𝘰 𝘵𝘩𝘦 𝘱𝘢𝘴𝘵."
+ - 𝘕𝘪𝘤𝘬 𝘊𝘢𝘳𝘳𝘢𝘸𝘢𝘺
 ‎
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=><img src="https://i.pinimg.com/originals/11/ba/c3/11bac321510a3f09950c5aeb7dbbd367.gif" style="max-width: 100%;"></a> <br/>
 
