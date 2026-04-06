@@ -40,7 +40,7 @@
 
 <p><b>GAMES:</b> Marvel Rivals, Deltarune, Undertale, Dead by Daylight, Life is Strange, Portal, Tekken 8, Minecraft, Animal Crossing, Red Dead Redemption</p>
 
-<p><b>TV SHOWS:</b> Community, HOUSE MD, Supernatural, The Boys</p>
+<p><b>TV SHOWS:</b> Community, HOUSE MD, Supernatural, The Boys, Deadly Class</p>
 
 <p><b>MUSICALS:</b> Ride the Cyclone, The Great Gatsby, Heathers, Cabaret, Dear Evan Hansen, Hamilton, 21 Chump Street, Sound of Music, Beetle Juice, Les Miserables, In the Heights </p>
 
