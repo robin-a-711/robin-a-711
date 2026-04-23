@@ -36,13 +36,14 @@
 
 <p>I REALLY super love nischa. my children i love them</p>
 <p>I love my friends so much! they're so peak <3 shoutout to jude my twin frfr </p>
-<p>close friends can call me matt lmao </p>
+<p>close friends can call me matt ! </p>
+<p>as much as possible please don't copy my ponies! inspo is fine, as long as it's not exactly alike  </p>
 
 <hr style="border:0; border-top:1px solid #493e4d; margin:10px 0;">
 
 <p><b>GAMES:</b> Marvel Rivals, Deltarune, Undertale, Dead by Daylight, Life is Strange, Portal, Tekken 8, Minecraft, Animal Crossing, Red Dead Redemption</p>
 
-<p><b>TV SHOWS:</b> Community, HOUSE MD, Supernatural, The Boys, Deadly Class</p>
+<p><b>TV SHOWS:</b> Community, House MD, Supernatural, The Boys, Deadly Class</p>
 
 <p><b>MUSICALS:</b> Ride the Cyclone, The Great Gatsby, Heathers, Cabaret, Dear Evan Hansen, Hamilton, 21 Chump Street, Sound of Music, Beetle Juice, Les Miserables, In the Heights </p>
 
