@@ -19,7 +19,7 @@
 </p>
 <div align="center" dir="auto">
   <a href="https://boyloserismincorporated.straw.page"/>strawpage</a> ⸝⸝
-  <a href="https://pronouns.cc/@robinthat711">pronouns.cc</a> ⸝⸝
+  <a href="https://pronouns.cc/@mischabachinski.">pronouns.cc</a> ⸝⸝
   <a href="https://guns.lol/robinafterhours">guns.lol</a> ⸝⸝
  <a href="https://robinsturr.atabook.org/">atabook</a>
 
